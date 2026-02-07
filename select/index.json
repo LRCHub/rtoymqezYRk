@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おんなじ髑髏",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-02-07T21:58:17.876506Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おんなじ髑髏",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_おんなじ髑髏_amazarashi.txt"
+    }
+  ]
+}
